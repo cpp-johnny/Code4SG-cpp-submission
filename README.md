@@ -5,7 +5,7 @@
 <details><summary> (Advent of Code 2022) </summary>
 <p>
 
-[AOC](https://github.com/cpp-johnny/aoc22)  
+[aoc22](https://github.com/cpp-johnny/aoc22)  
 
 </p>
 </details>
@@ -14,7 +14,7 @@
 <details><summary> (Project Euler) </summary>
 <p>
 
-[Project Euler](https://github.com/cpp-johnny/projecteuler)  
+[projecteuler](https://github.com/cpp-johnny/projecteuler)  
 
 </p>
 </details>
