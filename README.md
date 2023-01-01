@@ -1,7 +1,18 @@
 # :checkered_flag:	Code4SG C++ Code/HW submission! :checkered_flag:	
 
+## 1) W3Schools :school:
 
-## 1) Advent of Code 2022 :santa:
+
+<details><summary> (W3 Schools) </summary>
+<p>
+
+[screenshot](https://user-images.githubusercontent.com/119715263/210173381-fe3bf03c-bcd0-477c-bc25-89c578e063ee.png)
+
+</p>
+</details>
+
+
+## 2) Advent of Code 2022 :santa:
 <details><summary> (Advent of Code 2022) </summary>
 <p>
 
@@ -10,7 +21,7 @@
 </p>
 </details>
 
-## 2) Project Euler :heavy_plus_sign: :heavy_minus_sign: :heavy_multiplication_x: :heavy_division_sign:
+## 3) Project Euler :heavy_plus_sign: :heavy_minus_sign: :heavy_multiplication_x: :heavy_division_sign:
 <details><summary> (Project Euler) </summary>
 <p>
 
@@ -19,7 +30,7 @@
 </p>
 </details>
 
-## 3) Recursion + Dynamic Programming :infinity:
+## 4) Recursion + Dynamic Programming :infinity:
 <details><summary> (Recursion + Dynamic Programming) </summary>
 <p>
 
@@ -28,7 +39,7 @@
 </p> 
 </details>
 
-## 4) Greedy Alogorithms :money_mouth_face:	
+## 5) Greedy Alogorithms :money_mouth_face:	
 <details><summary> (Greedy Alogorithms) </summary>
 <p>
 
@@ -37,7 +48,7 @@
 </p>
 </details>
 
-## 5) Alogorithms :green_circle:	:orange_circle:	:red_circle:	
+## 6) Alogorithms :green_circle:	:orange_circle:	:red_circle:	
 <details><summary> (Alogorithms) </summary>
 <p>
 
@@ -46,7 +57,7 @@
 </p>
 </details>
 
-## 6) Graphs :chart_with_upwards_trend:	:chart_with_upwards_trend:	:chart_with_upwards_trend:	
+## 7) Graphs :chart_with_upwards_trend:	:chart_with_upwards_trend:	:chart_with_upwards_trend:	
 <details><summary> (Graphs) </summary>
 <p>
 
@@ -55,7 +66,7 @@
 </p>
 </details>
 
-## 7) USACO :brain:	
+## 8) USACO :brain:	
 <details><summary> (USACO) </summary>
 <p>
 
@@ -64,7 +75,7 @@
 </p>
 </details>
 
-## 8) CodeChef :computer:	 :cook:	
+## 9) CodeChef :computer:	 :cook:	
 <details><summary> (CodeChef) </summary>
 <p>
 
