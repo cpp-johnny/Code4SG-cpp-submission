@@ -39,7 +39,7 @@
 </p> 
 </details>
 
-## 5) Greedy Alogorithms :money_mouth_face:	
+## 5) Greedy Algorithms :money_mouth_face:	
 <details><summary> (Greedy Alogorithms) </summary>
 <p>
 
