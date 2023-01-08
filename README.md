@@ -84,7 +84,7 @@
 </p>
 </details>
 
-## 10) More practices
+## 10) More practices (own)
 <details><summary> (LeetCode) </summary>
 <p>
 
