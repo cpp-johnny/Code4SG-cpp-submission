@@ -84,4 +84,11 @@
 </p>
 </details>
 
+## 10) More practices
+<details><summary> (LeetCode) </summary>
+<p>
 
+[LeetCode](https://github.com/cpp-johnny/leetcode-practice)
+
+</p>
+</details>
