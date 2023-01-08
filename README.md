@@ -48,7 +48,7 @@
 </p>
 </details>
 
-## 6) Alogorithms :green_circle:	:orange_circle:	:red_circle:	
+## 6) Algorithms :green_circle:	:orange_circle:	:red_circle:	
 <details><summary> (Alogorithms) </summary>
 <p>
 
