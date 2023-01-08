@@ -85,6 +85,15 @@
 </details>
 
 ## 10) More practices (own)
+
+<details><summary> (Advent of Code 2021) </summary>
+<p>
+
+[aoc21](https://github.com/cpp-johnny/aoc21)
+
+</p>
+</details>
+
 <details><summary> (LeetCode) </summary>
 <p>
 
